@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assessment.sol": "BankSystem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assessment.sol": {
+			"keccak256": "0xf3b03e445e5e29347612be5e9fc468e33c25999775ed9b5d0b8ed4880c403985",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://49f608ddb7e41947db47357ce12b456e28f5303e1c9e7037f94cd05c97a0943b",
+				"dweb:/ipfs/QmRqCfSorLV9dHrtWR7FWXze4mZv5ic52kGZoGiBGyxJVv"
+			]
+		}
+	},
+	"version": 1
+}

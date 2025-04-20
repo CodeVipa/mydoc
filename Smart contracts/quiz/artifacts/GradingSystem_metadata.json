@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "score",
+						"type": "uint256"
+					}
+				],
+				"name": "getGrade",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Grading_quiz.sol": "GradingSystem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Grading_quiz.sol": {
+			"keccak256": "0xe13a2aa9ae5de8bc7cb5a756eac6b9b6e8bd8aa4f5984cb71d3ea8114e54b0d4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b70834862a0b9154532f537e92870619131c0173f773690b45c0072dc8b16e71",
+				"dweb:/ipfs/QmfDucJHR8HAHm5iHRFDx8rTYwqAV8PQGmu15n9iGZX3Hd"
+			]
+		}
+	},
+	"version": 1
+}
